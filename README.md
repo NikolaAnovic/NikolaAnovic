@@ -1,3 +1,1 @@
 - 👋 Hi, I’m @NikolaAnovic
-- 👀 I’m interested in modern military weapons based on AI and anything that has to do with python.
-- 🌱 I’m currently learning EVERYTHING i like!
